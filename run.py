@@ -5,4 +5,4 @@
 import os
 
 ## Running
-os.system("python source/rpg.py")
+os.system("python rpg.py")
